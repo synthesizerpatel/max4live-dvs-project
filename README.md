@@ -20,8 +20,8 @@ externals.
 
 I've provided two wav files that can be described as:
 
-`1-Audio 2` is dead-start to full 33.3rpm for approx 10 seconds and then to a dead stop.
-`1-Audio 3` is dead-start to full 33.3rpm for approx 5.5 seconds and then a 100% reversal of speed and an additional 5.5 seconds of the signal being run "backwards"
+* `1-Audio 2` is dead-start to full 33.3rpm for approx 10 seconds and then to a dead stop.
+* `1-Audio 3` is dead-start to full 33.3rpm for approx 5.5 seconds and then a 100% reversal of speed and an additional 5.5 seconds of the signal being run "backwards"
 
 Getting the smoothed value of frequency detected lets you know how fast the record is spinning, 
 supposedly you can do a carttopol to get the magnitude and phase of the left and right signals but

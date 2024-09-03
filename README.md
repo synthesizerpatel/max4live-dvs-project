@@ -28,7 +28,7 @@ for the job.
 * Real-time process an incoming stereo signal using a set of windows FFTs to detect phase of L/R signal (direction)
   a fairly accurate frequency (speed of rotation) and then apply that value to a stream of samples to scratch them.
 
-* It will be free for any max4live user who still uses a DVS system.
+* It will be free for any max4live user. 
 
 * This should be a stock piece of gear for people who use DVS systems, just for doing stuff like
   interfacing with DMX light stuff or OpenSoundControl at the very least.
